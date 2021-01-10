@@ -4,4 +4,4 @@ Diese Seite ist ein Platzhalter für Anwendungen mit dem CFBundleIdentifier **io
 
 ### Kontakt
 
-Ich bin unter der Mail-Adresse git.bec@outlook.de erreichbar.
+Ich bin unter der Mail-Adresse [git.bec@outlook.de](mailto:git.bec@outlook.de) erreichbar.
